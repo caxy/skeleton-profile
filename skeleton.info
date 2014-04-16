@@ -1,3 +1,4 @@
 name = Caxy skeleton
 description = Skeleton project.
 core = 7.x
+dependencies[] = block
